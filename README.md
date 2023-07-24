@@ -1,5 +1,9 @@
 # Robotic-arm
 
+
+Here is a link to the video that I made of the project:
+https://www.youtube.com/watch?v=fNKYo5ODDHw&t=10s
+
 This code is for a Bluetooth controlled robotic arm using an Arduino board. It makes use of four servos to control the movement of the arm, and a Bluetooth module to receive instructions from a mobile application.
 
 The program starts with the initialization of the necessary libraries and objects for the servos and Bluetooth module. A function called zeroset() is also defined to initialize the servos to a neutral position.
