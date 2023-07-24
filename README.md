@@ -14,4 +14,13 @@ This process repeats continuously, allowing the user to control the arm through 
 
 ![WhatsApp Image 2023-01-03 at 19 35 02](https://user-images.githubusercontent.com/127997008/235251729-3e215d06-83ad-4477-a6f3-7e135bfa2cf1.jpeg)
 
+**Stages of building the product:**
+
+![bd887b57-7731-4991-97dd-2eae56004ef9](https://github.com/x-Bloodlust-x/Robotic-arm-Arduino-/assets/127997008/748893ba-433f-4c3e-a736-113297dd375b)
+![e6ce27c6-5f51-4d2f-91a3-25c68b0674fe](https://github.com/x-Bloodlust-x/Robotic-arm-Arduino-/assets/127997008/41a3de95-041f-4233-ae87-ec7c9f5229e7)
+![ca36b8a3-b925-43d7-8e57-1ccae3fa67ff](https://github.com/x-Bloodlust-x/Robotic-arm-Arduino-/assets/127997008/a23cf32f-694d-4d17-b74f-908467fc7939)
+![80c7a8ee-e4e2-4f38-8fbe-b7a78e2f4589](https://github.com/x-Bloodlust-x/Robotic-arm-Arduino-/assets/127997008/15047591-b461-4da0-b846-f6a243cf7a8c)
+![6fa09df3-2b67-4fe5-866d-cbe665fad90e](https://github.com/x-Bloodlust-x/Robotic-arm-Arduino-/assets/127997008/913c3d39-7664-4abc-a684-0a1abccdbad0)
+![124741c0-3507-40a6-b39a-0b9c2b1b14ad](https://github.com/x-Bloodlust-x/Robotic-arm-Arduino-/assets/127997008/e53475f6-fa52-41d2-adcb-2245e779e527)
+![1940f92e-2f33-46a8-ad58-7d6c0b34f2b2](https://github.com/x-Bloodlust-x/Robotic-arm-Arduino-/assets/127997008/d2268b6b-2ecd-4d7f-9568-030e39cb92cb)
 
